@@ -5,7 +5,7 @@ public class Child extends Parent
 		
 		public Child()
 			{
-				
+			super();	
 			}
 		
 		public void displayChildA()
